@@ -17,7 +17,7 @@ Implementation Description:
 
 An overview of the implementation procedure is as follows:
 
-1.Upon conducting Data Profiling for the Brazilian E-commerce dataset, we observed and addressed issues such as missing values, inconsistent data, and ensured alignment of data types with respect to the data dictionary. Initially, we created a data dictionary specific to the Brazilian E-commerce dataset, outlining column names and corresponding data types.
+1. Upon conducting Data Profiling for the Brazilian E-commerce dataset, we observed and addressed issues such as missing values, inconsistent data, and ensured alignment of data types with respect to the data dictionary. Initially, we created a data dictionary specific to the Brazilian E-commerce dataset, outlining column names and corresponding data types.
 
 2. The files from the blob storage are imported into Azure Data Factory in the Dataset section for the Azure Cosmos Document DB implementation. The files are cleansed, integrated, transformed, aggregated as per required hierarchy and nesting and finally, sink it into the destination Azure Cosmos Document DB.
    
