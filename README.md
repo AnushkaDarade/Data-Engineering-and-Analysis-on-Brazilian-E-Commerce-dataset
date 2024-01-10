@@ -13,6 +13,7 @@ Data Architecture Diagram:
 <img width="617" alt="image" src="https://github.com/AnushkaDarade/Data-Engineering-and-Analysis-on-Brazilian-E-Commerce-dataset/assets/114367423/94b782b6-5a5c-4ba0-a446-68638a443056">
 
 
+
 Implementation Description:
 
 An overview of the implementation procedure is as follows:
